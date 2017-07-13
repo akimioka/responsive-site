@@ -16,7 +16,8 @@ p.text {
   background-color: white; }
 
 #contact {
-  background-color: lightgray; }
+  background-color: lightgray;
+  text-align: center; }
 
 @media (min-width: 769px) {
   .top {
