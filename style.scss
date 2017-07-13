@@ -22,16 +22,17 @@ p.text {text-align: center; }
 #contents{
     margin: 40px;
 }
+.top{ background-image:url(./blog-684748_1280.jpg);
+        background-size: cover;
+        background-position: center center;
+        width: 100%;}
             
 
 
    @media (min-width:769px) {
 
    .top{
-        background-image:url(./blog-684748_1280.jpg);
-        background-size: cover;
-        background-position: center center;
-        width: 100%;
+       
         height: 500px;
         margin-bottom: 50px;
         }
@@ -57,10 +58,7 @@ p.text {text-align: center; }
 
  @media (max-width:768px) {
      .top {
-        background-image:url(./blog-684748_1280.jpg);
-        background-size: cover;
-         background-position: center center;
-         width: 100%;
+       
          height:250px;
          margin-bottom: 20px;
      }
